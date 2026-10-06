@@ -20,8 +20,6 @@ function Bevezeto() {
           </div>
         </div>
       </div>
-
-
     </>
   )
 }
